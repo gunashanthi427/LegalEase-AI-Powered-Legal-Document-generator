@@ -4,7 +4,7 @@ LegalEase is a simple web-based legal document generator that helps users create
 
 🚀 Live Demo
 
-https://gunashanthi427.github.io/LegalEase-AI-Document-Generator/
+https://github.com/gunashanthi427/LegalEase-AI-Powered-Legal-Document-generator
 
 📌 Features
 
